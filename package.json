@@ -1,0 +1,25 @@
+{
+  "name": "jquery-autoellipsis",
+  "version": "1.0.0",
+  "description": "this is a jquery plugin to truncate a text across multiple lines based on width or truncate at the end of word in the last line",
+  "main": "jquery.autoEllipsis.js",
+  "scripts": {
+    "test": "$.fn.autoEllipsis"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrayravi/autoellipsis.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "autoellipsis",
+    "truncate-by-word",
+    "truncate-by-line"
+  ],
+  "author": "Ravi Bhagavatula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrayravi/autoellipsis/issues"
+  },
+  "homepage": "https://github.com/sunrayravi/autoellipsis#readme"
+}
